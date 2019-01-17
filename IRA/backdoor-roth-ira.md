@@ -54,4 +54,39 @@ The similarities and differences are summarized at the below table.
   </tbody>
 </table>
 
-## Backdoor Roth IRA
+## Why backdoor Roth IRA
+
+From the above table, we can find Roth IRA is a powerful way to save for retirement. You make non-deductible contribution (or after tax money) to a Roth IRA and all growth and withdrawals are tax-free. This is most beneficial when your taxes are lower now than you expect they will be in the future. That is why people says "A Roth IRA is the best choice especially for young investors".
+The other advantages of Roth IRA when comparing with traditional IRA is you can contribute to Roth IRA at any age and you are not forced to take distribution from Roth IRA when you turn age 70&#189;.
+
+But the problem of Roth IRA is if your modified AGI is higher than $193,000 for married filing jointly or $137,000 for singles, you cannot contribute to Roth IRA.  If you think tax-free income in retirement would be important to you, but your income is beyond IRS's limit, you might want to consider the back door. In a backdoor Roth, you first make a contribution to a Traditional IRA, then convert it to a Roth IRA.
+
+## How to create a backdoor Roth IRA
+
+**TLDR:** Put non-deductible money to a traditional IRA account and then convert the account to a Roth IRA.
+
+Below is a step-by-step guide:
+
+* Put money in a traditional IRA account.
+* Convert the account to a Roth IRA. (Note, when you do the conversion, your IRA provider may ask you whether or not to have federal taxes withheld, you should choose not to withhold the federal taxes.)
+* Prepare to pay taxes on the contributions to your traditional IRA. Only post-tax dollars go into Roth IRAs. So if you deducted your traditional IRA contributions and then decide to convert your traditional IRA to a backdoor Roth, you’ll need to give that tax deduction back. When it comes time to file your tax return, be prepared to pay income tax on the money you converted to a Roth
+* Prepare to pay taxes on the gains in your traditional IRA. If the money in that traditional IRA has been sitting there awhile and there are investment gains, you’ll also owe tax on those gains at tax time.
+
+### Gotcha
+
+If you convert some money to a Roth IRA and keep some money in other kinds of IRAs, you don’t owe taxes simply on the converted amount. Instead, you owe taxes based on the proportion of your IRA money overall that is after-tax and before tax.
+Here are two examples, taken from Ed Slott’s [The Definitive Guide to the 'Back-Door Roth.'](https://www.irahelp.com/slottreport/backdoor-roth-conversion) to show the possible tax implications of a backdoor Roth.
+
+#### Example 1
+
+Jake has $100,000 in his traditional IRA, $10,000 of which is after-tax. Therefore, 10% ($10,000 / $100,000 = 10%) of his traditional IRA consists of after-tax money. If Jake wants to convert $20,000 of his Traditional IRA to a Roth IRA, $2,000 ($20,000 x 10% = $2,000) would be tax free. The remaining $18,000 ($20,000 – $18,000 = $2,000) would be taxable.
+
+#### Example 2
+
+Ann has $95,000 in her Traditional IRA, all of which is pre-tax. If Ann makes a $5,000 nondeductible (after-tax) contribution to a Traditional IRA, her total IRA balance will be $100,000, $5,000 of which will be after-tax. Thus, only 5% ($5,000 / $100,000 = 5%) of her Roth IRA conversion will be tax-free. If Ann converts $5,000 from her Traditional IRA to a Roth IRA after making her nondeductible contribution, just $250 would be tax free ($5,000 x 5%), while the remaining $4,750 ($5,000 – $250 = $4,750) would be taxable.
+
+## References
+
+* [Traditional and Roth IRAs](https://www.irs.gov/retirement-plans/traditional-and-roth-iras) from IRS
+* [A backdoor Roth may let you fund a Roth IRA beyond normal limits](https://www.rothira.com/what-is-a-backdoor-roth-ira)
+* [How to Set Up a Backdoor Roth IRA](https://www.nerdwallet.com/blog/investing/backdoor-roth-ira-high-income-how-to-guide)
