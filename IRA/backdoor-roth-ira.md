@@ -39,7 +39,7 @@ The similarities and differences are summarized at the below table.
     </tr>
     <tr>
       <td><b>When can I withdraw money?</b></td>
-      <td colspan="2">You can withdraw money anytime.</td>
+      <td colspan="2">You can withdraw money anytime. But you may have to pay an additonal 10% tax for early withdrawals if you are under age 59&#189;.</td>
     </tr>
     <tr>
       <td><b>Do I have to take required minimum distributions?</b></td>
