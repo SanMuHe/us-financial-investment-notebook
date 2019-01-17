@@ -48,8 +48,8 @@ The similarities and differences are summarized at the below table.
     </tr>
     <tr>
       <td><b>Are my withdrawals and distributions taxable?</b></td>
-      <td>Any deductible contributions and earnings you withdraw or that are distributed from your traditonal IRA are taxable. Also, if you are under age 59&#189;, you may have to pay an additional 10% tax for early withdrawals unless you qualify for an exception.</td>
-      <td>None if it's a qualified distribution (or withdrawal that is a qualified distribution). Otherwise, part of the distribution or withdrawal may be taxable. If you are under age 59&#189;, you may also have to pay an additional 10% tax for early withdrawals unless you qualify for an exception</td>
+      <td>Any deductible contributions and earnings you withdraw or that are distributed from your traditonal IRA are taxable. Also, if you are under age 59&#189;, you may have to pay an additional 10% tax for early withdrawals unless you qualify for an <a href="https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-tax-on-early-distributions">exception</a>.</td>
+      <td>None if it's a <a href="https://www.irs.gov/publications/p590b">qualified distribution</a> (or withdrawal that is a qualified distribution). Otherwise, part of the distribution or withdrawal may be taxable. If you are under age 59&#189;, you may also have to pay an additional 10% tax for early withdrawals unless you qualify for an <a href="https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-tax-on-early-distributions">exception.</a></td>
     </tr>
   </tbody>
 </table>
