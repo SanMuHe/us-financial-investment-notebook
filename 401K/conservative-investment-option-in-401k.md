@@ -1,10 +1,10 @@
-# Conservative Investment Option in 401K
+# Conservative Investment Option in 401(k)
 
-If you want to keep your 401(K) investment stably during bear market, you can choose to rebalance your money into a stable value fund.
+If you want to keep your 401(k) investment stably during bear market, you can choose to rebalance your money into a stable value fund.
 
 ## Steps to rebalance 401(k) investment into a stable value fund
 
-Take Fedelity as an example, you can follow the below steps to rebalance your 401(K) investment into a stable value fund called [MIP CL 1](mip-cp-1-overview.md).
+Take Fedelity as an example, you can follow the below steps to rebalance your 401(k) investment into a stable value fund called [MIP CL 1](mip-cp-1-overview.md).
 
 1. Login Fidelity
 2. Choose your 401(k) account and click "View balances"
