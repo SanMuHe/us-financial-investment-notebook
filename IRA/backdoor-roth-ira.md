@@ -34,12 +34,12 @@ The similarities and differences are summarized at the below table.
       </td>
     </tr>
     <tr>
-      <td><b>What is the dealine to make contributions?</b></td>
-      <td colspan="2">Your tax return filling deadline (not including extentions). For example, you can make 2018 IRA contributions until April 15, 2019.</td>
+      <td><b>What is the deadline to make contributions?</b></td>
+      <td colspan="2">Your tax return filling deadline (not including extensions). For example, you can make 2018 IRA contributions until April 15, 2019.</td>
     </tr>
     <tr>
       <td><b>When can I withdraw money?</b></td>
-      <td colspan="2">You can withdraw money anytime. But you may have to pay an additonal 10% tax for early withdrawals if you are under age 59&#189;.</td>
+      <td colspan="2">You can withdraw money anytime. But you may have to pay an additional 10% tax for early withdrawals if you are under age 59&#189;.</td>
     </tr>
     <tr>
       <td><b>Do I have to take required minimum distributions?</b></td>
@@ -48,7 +48,7 @@ The similarities and differences are summarized at the below table.
     </tr>
     <tr>
       <td><b>Are my withdrawals and distributions taxable?</b></td>
-      <td>Any deductible contributions and earnings you withdraw or that are distributed from your traditonal IRA are taxable. Also, if you are under age 59&#189;, you may have to pay an additional 10% tax for early withdrawals unless you qualify for an <a href="https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-tax-on-early-distributions">exception</a>.</td>
+      <td>Any deductible contributions and earnings you withdraw or that are distributed from your traditional IRA are taxable. Also, if you are under age 59&#189;, you may have to pay an additional 10% tax for early withdrawals unless you qualify for an <a href="https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-tax-on-early-distributions">exception</a>.</td>
       <td>None if it's a <a href="https://www.irs.gov/publications/p590b">qualified distribution</a> (or withdrawal that is a qualified distribution). Otherwise, part of the distribution or withdrawal may be taxable. If you are under age 59&#189;, you may also have to pay an additional 10% tax for early withdrawals unless you qualify for an <a href="https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-tax-on-early-distributions">exception.</a></td>
     </tr>
   </tbody>
