@@ -4,11 +4,11 @@ Capital loss happens when you have a negative profit after selling an investment
 
 ## Capital Losses Tax Rules
 
-### Tax Deductible Captial Losses
+### Tax Deductible Capital Losses
 
 Capital losses on the sale of investment property are tax deductible. But captical losses on the sale of personal property are not.
 
-### Overall Captical Lossses
+### Overall Capital Lossses
 
 Short-term capital losses offset short-term capital gains and long-term captical losses offset long-term gains.
 When your short-term gains or losses plus your long-term gains or losses result in a loss when added together, you have an overall loss that can be deducted against your other income.
