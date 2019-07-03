@@ -49,4 +49,4 @@ Your cost basis in the remaining shares stays at $50 a share. In this example it
 
 ## Reference
 
-* [RSU Sell To Cover Deconstructed](ihttps://thefinancebuff.com/rsu-sell-to-cover-deconstructed.html)
+* [RSU Sell To Cover Deconstructed](https://thefinancebuff.com/rsu-sell-to-cover-deconstructed.html)
