@@ -16,7 +16,7 @@ This is a notebook to share some knowledge on financial investment in USA
 ### Tax
 
 * [RSU Sell to Cover Deconstructed](Tax/rsu-sell-to-cover-deconstructed.md)
-* [Tax Treatment of Captial Losses](Tax/tax-treatment-of-capital-losses.md)
+* [Tax Treatment of Capital Losses](Tax/tax-treatment-of-capital-losses.md)
 
 ## License
 
