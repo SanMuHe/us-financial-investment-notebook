@@ -9,7 +9,7 @@ Many people don't get hit with the gift tax, because the IRS generally doesn't c
 ## Annual gift tax exclusion
 
 * In 2019, you can give up $15,000 to someone in a calendar year and don't have to deal with IRS about it.
-* If you give more than $15,000 in a calendar year to anyone person, you need to file a gift tax return. That doesn't mean you have to pay a gift tax. It just means you need to file [IRS Form 709](https://www.irs.gov/forms-pubs/about-form-709) to disclose the gift.
+* If you give more than $15,000 in a calendar year to anyone person, you need to file a gift tax return. That doesn't mean you have to pay a gift tax. It just means you need to file [IRS Form 709](https://www.irs.gov/forms-pubs/about-form-709) to disclose the gift. The gift tax return is just to keep track of your [lifetime gift tax exclusion](#lifetime-gift-tax-exclusion).
 * The annual exclusion is per receipient.
 * The annual exclusion is per donor.
 * Gifts between spouses are unlimited in generally. But if gift is made to spouses who are not U.S. citizens, there is an annual exclusion of $152,000.
