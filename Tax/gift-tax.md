@@ -25,10 +25,24 @@ Many people don't get hit with the gift tax, because the IRS generally doesn't c
 
 The rates range from 18% to 40%, and the giver generally pays the tax. There are, of course, exceptions and special rules for calculating the tax, so see the [instructions to IRS Form 709](https://www.irs.gov/forms-pubs/about-form-709) for all the details.
 
+## Foreign Gift
+
+In general, a foreign gift is money or other property received by a U.S. person from a foreign person that the recipient treats as a gift or bequest and excludes from gross income. No gift tax applies to gifts from foreign nationals if those gifts are not situated in the U.S. In legal terms, the gift isn't "U.S. situs" property.
+
+But you still need to file [IRS Form 3520](https://www.irs.gov/pub/irs-pdf/f3520.pdf), if during the current tax year you receive
+
+* Gifts or bequests valued at more than $100,000 from a nonresident alien individual or foreign estate (including foreign persons related to that nonresident alien individual or foreign estate)
+
+or
+
+* Gifts valued at more than $16,076 for 2018 (adjusted annually for inflation) from foreign corporations or foreign partnerships (including foreign persons related to the foreign corporations or foreign partnerships)
+
 ## Reference
 
 * [Gift Tax](https://www.irs.gov/businesses/small-businesses-self-employed/gift-tax) from IRS
 * [Frequently Asked Questions on Gift Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes) from IRS
 * [Instructions for Form 709 (2018)](https://www.irs.gov/instructions/i709) from IRS
+* [Gifts from Foreign Person](https://www.irs.gov/businesses/gifts-from-foreign-person) from IRS
 * [2018-2019 Gift Tax Rates: I’m Generous, but Do I Have to Pay This?](https://www.nerdwallet.com/blog/taxes/gift-tax-rate/)
 * [What Is the Lifetime Gift Tax Exemption?](https://smartasset.com/retirement/lifetime-gift-tax-exemption)
+* [The Rules on Reporting Foreign Gifts and Inheritances](https://www.thebalance.com/report-gifts-and-inheritances-3505655)
