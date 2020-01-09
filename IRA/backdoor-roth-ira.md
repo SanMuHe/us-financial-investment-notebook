@@ -54,6 +54,16 @@ The similarities and differences are summarized at the below table.
   </tbody>
 </table>
 
+### Roth IRA Withdrawal Rules
+
+A better explanation of the Roth IRA withdrawal rules described in the above table is,
+
+* Roth IRA withdrawal rules differ depending on whether you take out your contributions or your investment earnings
+* You can withdraw your Roth IRA contributions at any time, for any reason, with no tax or penalties.
+* If you withdraw your Roth IRA earnings, you may be subject to income taxes and a 10% penalty, depending on your age and how long you've had the account. In general, you can withdraw your earnings without owing taxes or penalties if:
+  * You're at least 59&#189; years old, and
+  * It has been at least five years since you first contributed to any Roth IRA.
+
 ## Why backdoor Roth IRA
 
 From the above table, we can find Roth IRA is a powerful way to save for retirement. You make non-deductible contribution (or after tax money) to a Roth IRA and all growth and withdrawals are tax-free. This is most beneficial when your taxes are lower now than you expect they will be in the future. That is why people says "A Roth IRA is the best choice especially for young investors".
@@ -90,3 +100,4 @@ Ann has $95,000 in her Traditional IRA, all of which is pre-tax. If Ann makes a 
 * [Traditional and Roth IRAs](https://www.irs.gov/retirement-plans/traditional-and-roth-iras) from IRS
 * [A backdoor Roth may let you fund a Roth IRA beyond normal limits](https://www.rothira.com/what-is-a-backdoor-roth-ira)
 * [How to Set Up a Backdoor Roth IRA](https://www.nerdwallet.com/blog/investing/backdoor-roth-ira-high-income-how-to-guide)
+* [Roth IRA Withdrawal Rules](https://www.investopedia.com/roth-ira-withdrawal-rules-4769951)
